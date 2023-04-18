@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "h2",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.3.16",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/hyperium/h2",
+    "Description": "An HTTP/2 client and server."
+  }
+]
